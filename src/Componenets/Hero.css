@@ -7,27 +7,21 @@
    
     align-items: center;
 }
-.Hero .banner {
-    
-    color:white;
-    width : 100%;
-    height : 100%; 
 
 
-}
-.Hero .banner  .info {
+.Hero .info {
+    color: white;
     padding-top: 3%;
-    padding-left: 6%;
     font-size: 50px;
 }
-.Hero .banner  .info .name{
+.Hero .info .name{
     
     color : #ffb742;
    
     
      
 }
-.Hero .banner .bitmoji{
+.Hero  .bitmoji{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,23 +29,24 @@
    
     
 }
-.Hero .banner .small-description{
+.Hero  .small-description{
     
    
     margin-top: 3%;
 
 }
-.Hero .banner .small-description .description1{
+.Hero .small-description .description1{
   display: flex;
   justify-content: center;
+  color: white;
   
     
 
 }
-.Hero .banner .small-description .description2{
+.Hero  .small-description .description2{
     display: flex;
     justify-content: center;
-    
+    color: white;
       
   
   }

@@ -5,7 +5,7 @@ const Hero = () => {
     
     return (
         <main className='Hero'>
-            <div className="banner">
+           
        
                 <h2 className='info'>Hello, My name is <span className='name'> Monjoy Narayan Choudhury</span></h2>
                 <div className="bitmoji">
@@ -16,7 +16,7 @@ const Hero = () => {
                    <p className='description2'>I am interested in Mobile Application Development, Machine Learning and is often fascinated by Web3 !</p>  
                 </div>
            
-            </div>
+       
         </main>
         
     
