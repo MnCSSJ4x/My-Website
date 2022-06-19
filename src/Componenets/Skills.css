@@ -1,0 +1,44 @@
+.Main{
+    margin-top: 6%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+ 
+    
+    
+}
+.Main .my-skills{
+    font-size: 3.5rem;
+    padding-left: 15%;
+    padding-right: 2%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    color: #ffb742;
+
+}
+.Main .logo-deck{
+    width : 50%;
+    display : grid ;
+    grid-template-columns: 15% 15% 15% 15%;
+    row-gap: 10%;
+    column-gap: 2%;
+    
+    
+}
+.Main .logo-deck .logo{
+
+    width: 100%;
+}
+@media (max-width: 800px){
+    .Main{
+        
+        flex-direction: column;
+    }
+    .Main .my-skills{
+        padding-left: 8%;
+    }
+    .Main .logo-deck{
+        width: 100%;
+        margin-left: 30%;
+    }
+}

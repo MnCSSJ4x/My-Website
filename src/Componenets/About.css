@@ -1,0 +1,47 @@
+
+.About{
+    margin-top: 6%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.About .photo{
+   
+    padding-left: 15%;
+    padding-right: 6%;
+}
+.About .About-Me{
+    color : white;
+}
+.About .Who-Am-I{
+    color : #ffb742;;
+}
+.About .about-description{
+    padding-right: 12%;
+    color: white;
+    
+}
+.About .Buttons {
+    display: flex;
+
+}
+.About .Buttons .btn-1{
+    margin-right: 1%;
+}
+@media (max-width: 800px) {
+    .About {
+      flex-direction: column;
+    }
+    .About .photo{
+        padding-left: 6%;
+        
+    }
+    .About .Who-Am-I{
+        margin-top: 5%;
+    }
+    .About .description{
+        padding-left: 6%;
+
+    }
+  }

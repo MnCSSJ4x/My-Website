@@ -1,0 +1,72 @@
+.project{
+    display: flex;
+    margin-top: 25%;
+    flex-direction: column;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-bottom: 15%;
+    
+    
+    
+}
+.project .title{
+    font-size: 3.5rem;
+    color: #ffb742;
+
+}
+.project .sub-title{
+    
+   
+    color: #ffb742;
+
+}
+.project .project-grid{
+  
+    padding-top: 5%;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    row-gap: 10%;
+    column-gap: 2%;
+    
+}
+.project .project-grid .item{
+    background: #ffb742;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    
+
+}
+
+.project .project-grid .item .link-title{
+   display: flex;
+   align-items: center;
+
+}
+.project .project-grid .item .link-title .pro-title{
+   margin-right: 5%;
+ 
+ }
+.project .project-grid .item .link-title .l .logo{
+   width: 80%;
+   padding-bottom: 20%;
+   
+ 
+ }
+ .project .project-grid .item .link-title .l:hover .logo  {
+    width: 100%;
+
+ }
+
+@media (max-width:800px) {
+    .project{
+        margin-top: 50%;
+        margin-bottom: 20%;
+    }
+    .project .project-grid{
+        grid-template-columns: auto;
+        row-gap: 5%;
+    }
+    
+}

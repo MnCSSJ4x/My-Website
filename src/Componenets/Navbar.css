@@ -1,0 +1,10 @@
+.nav-link{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    color : white;
+}
+.nav-item :hover{
+    color : #ffb742 !important
+}
+.navbar-brand{
+    justify-content: center;
+}

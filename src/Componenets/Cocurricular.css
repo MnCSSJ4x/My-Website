@@ -1,0 +1,26 @@
+.curr-main{
+    display: flex;
+    flex-direction: column;
+    padding-left: 15%;
+    margin-bottom: 2%;
+}
+.curr-main .heading{
+    color : #ffb742;
+    padding-bottom: 3%;
+    font-size: 3.5rem;
+}
+.curr-main .list .list-heading{
+    color : #ffb742;
+    
+}
+.curr-main .list .list-points .list-items{
+    color: white;
+    font-size: 1.2rem;
+}
+@media (max-width : 800px) {
+    .curr-main{
+        margin-top: 60%;
+    }
+    
+    
+}

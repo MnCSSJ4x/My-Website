@@ -1,0 +1,16 @@
+.contact-main{
+    display: flex;
+    flex-direction: column;
+    padding-left: 15%;
+    margin-bottom: 10%;
+}
+.contact-main .title{
+    color : #ffb742;
+    padding-bottom: 3%;
+    font-size: 3.5rem;
+}
+.contact-main .contact-grid{
+    display: flex;
+    column-gap: 10%;
+
+}
