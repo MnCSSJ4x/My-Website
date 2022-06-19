@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Website/static/css/main.bf3a2ed4.css",
-    "main.js": "/My-Website/static/js/main.60545b6f.js",
+    "main.css": "/My-Website/static/css/main.77731ee3.css",
+    "main.js": "/My-Website/static/js/main.e6056b9b.js",
     "static/media/photo.jpeg": "/My-Website/static/media/photo.fcd8b0fb9ebbee383bd6.jpeg",
     "static/media/bitmoji.png": "/My-Website/static/media/bitmoji.3189ed216d89af9ced2d.png",
     "static/media/brackets.png": "/My-Website/static/media/brackets.bb399467e8c116b47943.png",
@@ -34,11 +34,11 @@
     "static/media/html5-original.svg": "/My-Website/static/media/html5-original.8664168d5bc90b1a24396f85aadbf623.svg",
     "static/media/firebase-plain.svg": "/My-Website/static/media/firebase-plain.0d5ec3e60614ea8e4d7abbf0729e969b.svg",
     "static/media/npm-original-wordmark.svg": "/My-Website/static/media/npm-original-wordmark.87689eab730642c86d2b01f3ef4a19e3.svg",
-    "main.bf3a2ed4.css.map": "/My-Website/static/css/main.bf3a2ed4.css.map",
-    "main.60545b6f.js.map": "/My-Website/static/js/main.60545b6f.js.map"
+    "main.77731ee3.css.map": "/My-Website/static/css/main.77731ee3.css.map",
+    "main.e6056b9b.js.map": "/My-Website/static/js/main.e6056b9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf3a2ed4.css",
-    "static/js/main.60545b6f.js"
+    "static/css/main.77731ee3.css",
+    "static/js/main.e6056b9b.js"
   ]
 }
