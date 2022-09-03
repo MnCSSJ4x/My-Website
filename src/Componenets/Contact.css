@@ -14,3 +14,11 @@
     column-gap: 10%;
 
 }
+.contact-main .contact-grid .contact-item .contact-img{
+    width:50%;
+}
+.contact-main .contact-grid .contact-item .contact-img:hover{
+    width: 75%;
+    
+
+}
