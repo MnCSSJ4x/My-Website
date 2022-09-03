@@ -8,6 +8,29 @@ const Project = () => {
         </h1>
         <h3 className='sub-title'>(At least some of them)</h3>
         <div className="project-grid">
+        <div className="item">
+                        <div className='link-title'>
+                            <h1 className='pro-title'>Warranty IT</h1>
+                            <a href='https://github.com/MnCSSJ4x/WarrantyIT' className='l'><img src={require('../Logos/ghub.svg').default} className='logo'/></a>
+                            
+                        </div>
+                   
+                    <p className='pro-desc'>
+                        <ul>
+                            <li>Technologies : Solidity, React-JS, tailwind-css, web3.js</li>
+                            <li>
+                           Warranty preservation on blockchain solution. 
+                            </li>
+                            <li>
+                            Implemented responsive user interface for the system.
+                            </li>
+                            <li>
+                            Integrated web3.js and interfaced UI and Solidity contracts.  
+                            </li>
+                        </ul>
+                    </p>
+                    
+            </div>
             <div className="item">
                         <div className='link-title'>
                             <h1 className='pro-title'>ShareCab</h1>
@@ -121,28 +144,6 @@ the solution of Interval Matching Problem.
                             Algorithms like Karatsuba Multiplication, Long Division, Newton Rapson and Borwein’s Algorithm were used and implemented.
                             </li>
                         </ul>
-                    </p>
-                    
-            </div>
-            <div className="item">
-                        <div className='link-title'>
-                            <h1 className='pro-title'>CD Rental Store</h1>
-                            <a href='https://github.com/MnCSSJ4x/CD-Rental' className='l'><img src={require('../Logos/ghub.svg').default} className='logo'/></a>
-                            
-                        </div>
-                   
-                    <p className='pro-desc'>
-                       <ul>
-                        <li>
-                            Technology : Java, JDBC, MySQL.
-                        </li>
-                        <li>
-                        CLI based CD-SHOP.
-                        </li>
-                        <li>
-                        CRUD operations implmented in a relational database and interfaced using Java. 
-                        </li>
-                       </ul>
                     </p>
                     
             </div>
