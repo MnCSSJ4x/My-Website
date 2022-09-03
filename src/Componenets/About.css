@@ -9,7 +9,11 @@
    
     padding-left: 15%;
     padding-right: 6%;
+    
  
+}
+.About .photo .img-personal{
+    border-radius: 50%;
 }
 .About .About-Me{
     color : white;
