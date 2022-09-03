@@ -1,11 +1,11 @@
 import React from 'react'
-import photo from '../photo.jpeg'
+import photo from '../photo.png'
 import './About.css'
 function About() {
   return (
  
     <div className='About' id='about'>
-       <div className='photo'><img src ={photo}></img></div> 
+       <div className='photo'><img src ={photo} width="350" height="350"></img></div> 
        <div className='description'>
          <h2 className='Who-Am-I'>Who am I</h2>
          <h1 className='About-Me' >About Me </h1>
